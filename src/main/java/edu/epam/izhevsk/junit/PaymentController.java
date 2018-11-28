@@ -1,7 +1,5 @@
 package edu.epam.izhevsk.junit;
 
-import java.math.BigDecimal;
-
 public class PaymentController {
     private AccountService accountService;
     private DepositService depositService;
